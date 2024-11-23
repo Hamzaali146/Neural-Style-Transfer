@@ -1,6 +1,6 @@
 # Neural Style Transfer (NST) with TensorFlow 🎨
 
-![NST Banner](https://ibb.co/qJvMFHM)  
+![NST Banner](https://i.ibb.co/WVLWprW/Neural-Style-Transfer.png)  
 *Create stunning artwork by blending content and style with the power of AI!*
 
 ---
