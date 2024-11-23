@@ -48,5 +48,3 @@ Clone the repository and install libraries:
    pip install tensorflow
    pip install numpy
    pip install open-cv
-    
-    
