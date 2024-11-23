@@ -1,11 +1,11 @@
-# 🎨 Neural Style Transfer (NST) with TensorFlow
+# Neural Style Transfer (NST) with TensorFlow 🎨
 
 ![NST Banner](https://via.placeholder.com/800x200?text=Neural+Style+Transfer+with+TensorFlow)  
 *Create stunning artwork by blending content and style with the power of AI!*
 
 ---
 
-## 📖 **Overview**
+## **Overview** 
 
 Neural Style Transfer (NST) is a deep learning technique that combines the **content** of one image with the **style** of another to generate artistic outputs. This project uses TensorFlow and the pre-trained **VGG19 model** to create visually stunning images, leveraging content and style loss optimization.
 
@@ -13,7 +13,7 @@ Inspired by Gatys et al.'s 2015 paper, this project allows you to experiment wit
 
 ---
 
-## 🖼️ **Sample Outputs**
+## **Sample Outputs**
 
 | **Content Image**              | **Style Image**              | **Generated Image**          |
 |--------------------------------|------------------------------|------------------------------|
@@ -21,7 +21,7 @@ Inspired by Gatys et al.'s 2015 paper, this project allows you to experiment wit
 
 ---
 
-## 🚀 **Features**
+##  **Features** 🚀
 
 - **Blend Any Images:** Merge a content image with any style image.
 - **Adjustable Weights:** Customize content and style importance using weights.
@@ -30,7 +30,7 @@ Inspired by Gatys et al.'s 2015 paper, this project allows you to experiment wit
 
 ---
 
-## ⚙️ **How It Works**
+##  **How It Works** ⚙️
 
 1. Extract features from **content** and **style images** using VGG19.
 2. Calculate:
@@ -40,9 +40,13 @@ Inspired by Gatys et al.'s 2015 paper, this project allows you to experiment wit
 
 ---
 
-## 🛠️ **Installation**
+##  **Installation** 🛠️
 
-1. Clone the repository:
+Clone the repository and install libraries:
    ```bash
-   git clone https://github.com/your-repo/nst-tensorflow.git
-   cd nst-tensorflow
+   git clone https://github.com/Hamzaali146/Neural-Style-Transfer.git
+   pip install tensorflow
+   pip install numpy
+   pip install open-cv
+    
+    
