@@ -17,7 +17,7 @@ Inspired by Gatys et al.'s 2015 paper, this project allows you to experiment wit
 
 | **Content Image**              | **Style Image**              | **Generated Image**          |
 |--------------------------------|------------------------------|------------------------------|
-| ![Content Image](https://via.placeholder.com/300x300?text=Content+Image) | ![Style Image](https://via.placeholder.com/300x300?text=Style+Image) | ![Output Image](https://via.placeholder.com/300x300?text=Generated+Image) |
+| ![Content Image](https://i.ibb.co/87dfVqy/content-2.jpg) | ![Style Image](https://i.ibb.co/MspD0m1/style-1.jpg) | ![Output Image](https://i.ibb.co/D1dVqxg/10000-1.png) |
 
 ---
 
